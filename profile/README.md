@@ -17,7 +17,7 @@ If you are a developer and want to use our code, you must follow these rules:
 ## What We Expect in Return
 Here’s what we ask from anyone using our code:
 
-- Follow both the [AVPTag](https://github.com/AVPTag) and [visualX](https://github.com/AVPTag) GitHub profiles.  
+- Follow both the [AVPTag](https://github.com/AVPTag) and [visualX](https://github.com/VisualXMods) GitHub profiles.  
 - Subscribe to [@hopefullty](https://youtube.com/@hopefullty) on YouTube.  
 - **Do not distribute our mods as direct downloads** (.dll files). Always link back to the GitHub repository to ensure security and trust for your users.  
 
